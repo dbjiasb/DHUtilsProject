@@ -1,3 +1,3 @@
 # DHUtilsProject
 
-Extention for some class for NS Kit 
+Extention for some classes from NS Kit 
